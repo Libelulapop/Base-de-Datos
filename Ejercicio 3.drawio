@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T17:25:52.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.5.0" etag="yrYZyUWrNaVr2-FWKh7r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T17:36:35.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="wtLTsg0IQl55pumDb8si" version="21.5.0" type="github">
   <diagram name="Página-1" id="oQfDVZH_HqWyL5-F-0gN">
-    <mxGraphModel>
+    <mxGraphModel dx="1373" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-1" value="Productos" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="159.5" width="182.86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnQmRaHOjaIB4SkvS2JT-2" target="JnQmRaHOjaIB4SkvS2JT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnQmRaHOjaIB4SkvS2JT-2" target="JnQmRaHOjaIB4SkvS2JT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-2" value="Cliente" style="whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160.5" width="180.57" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-3" value="Factura" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="147.71" y="440" width="182.86" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnQmRaHOjaIB4SkvS2JT-4" target="JnQmRaHOjaIB4SkvS2JT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-4" value="COMPRA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JnQmRaHOjaIB4SkvS2JT-5" target="JnQmRaHOjaIB4SkvS2JT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnQmRaHOjaIB4SkvS2JT-5" value="SOLICITA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180.29000000000002" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
